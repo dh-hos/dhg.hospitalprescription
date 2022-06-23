@@ -1,3 +1,11 @@
+---
+name: Ghi nhận lỗi
+about: Mẫu ghi nhận thông tin chi tiết lỗi
+title: "Lỗi - "
+labels: Lỗi (bug)
+assignees: nghivanbi
+---
+
 <div align="center">
 
 `Công ty TNHH Giải Pháp Kỹ Thuật Số DH - Mẫu: DH-08.1: Phiếu ghi nhận lỗi phát sinh DHG.Hospital 3.1`
