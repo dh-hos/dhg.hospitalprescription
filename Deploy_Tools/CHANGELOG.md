@@ -2,6 +2,11 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+
+v3.22.10.27.1 
+🐛: không có xóa diễn biến cuối cùng trong ngày của bệnh án ngoại trú.
+✨: không cho thêm cận lâm sàng khi bệnh nhân BHYT đã có toa và tham số pre.canhbaoclsthuchien [2:4]
+ 
 v3.22.1018.1 
 ✨ Bổ sung thêm para trên phiếu nhập viện tự thiết kế
 + ngaykcb: Ngày giờ khám bệnh của bệnh nhân.
