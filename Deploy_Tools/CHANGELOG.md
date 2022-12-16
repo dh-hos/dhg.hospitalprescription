@@ -3,6 +3,10 @@ DHG.Hospital Prescription
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 
+v3.22.12.16.1 
+🐛: cho phép kết thúc bệnh án đối với các bệnh án mới lập không cần phải chỉnh diễn biến.
+
+
 v3.22.10.27.1 
 🐛: không có xóa diễn biến cuối cùng trong ngày của bệnh án ngoại trú.
 ✨: không cho thêm cận lâm sàng khi bệnh nhân BHYT đã có toa và tham số pre.canhbaoclsthuchien [2:4]
