@@ -2,6 +2,8 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.22.12.20.1 
+🐛: Fix lỗi lấy lại toa kiểm tra kết quả cls theo tham số [pre.canhbaoclsthuchien] như khi thêm toa.
 
 v3.22.12.16.1 
 🐛: cho phép kết thúc bệnh án đối với các bệnh án mới lập không cần phải chỉnh diễn biến.
