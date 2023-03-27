@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.03.27.1 
+✨: Thêm tham số [toathuoc.sophuttoithieu] - Số phút tối thiểu kể từ thời điểm khám bệnh đến lúc lưu toa bệnh nhân BHYT.
+
 v3.22.12.20.1 
 🐛: Fix lỗi lấy lại toa kiểm tra kết quả cls theo tham số [pre.canhbaoclsthuchien] như khi thêm toa.
 
