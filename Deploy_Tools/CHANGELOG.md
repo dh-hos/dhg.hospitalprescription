@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.09.25.1 
+🐛: Không cập nhật thời gian diễn biến khi thực hiện chỉnh diễn biến đối với BANT thanh toán đợt.
+
 v3.23.03.27.1 
 ✨: Thêm tham số [toathuoc.sophuttoithieu] - Số phút tối thiểu kể từ thời điểm khám bệnh đến lúc lưu toa bệnh nhân BHYT.
 
