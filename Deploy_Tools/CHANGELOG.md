@@ -1,6 +1,9 @@
 DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
+  
+v3.23.09.27.1 
+🐛: Cho phép ra toa với thuốc có số lượng = 0 (77155-PHÒNG KHÁM ĐA KHOA ĐỒNG TÂM).
 
 v3.23.09.25.1 
 🐛: Không cập nhật thời gian diễn biến khi thực hiện chỉnh diễn biến đối với BANT thanh toán đợt.
