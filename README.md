@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Tải về](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2001-blue?logo=googledrive)](https://drive.google.com/drive/folders/1RtYOc1Mt7PauLAZhuGwL2Aba5bhpeyh3) [![Build Status](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2002-blue?logo=googledrive)](https://drive.google.com/drive/u/0/folders/1P5fwwDAB3mwOiLydvbRMZgbuBoY-FN5t) [![Build Status](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Onedrive-blue??style=for-the-badge&logo=microsoftonedrive)]([https://1drv.ms/u/s!AusAbLoC7t1d2CWTfReuQ9MrwwwS?e=Iw4jLL](https://1drv.ms/u/s!AusAbLoC7t1d2CY7K5spnw2RIPfh?e=vLQgF9))
+[![Tải về](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Google%2001-blue?logo=googledrive)](https://drive.google.com/drive/folders/1RtYOc1Mt7PauLAZhuGwL2Aba5bhpeyh3) [![Build Status](https://img.shields.io/badge/Tải%20file%20cài%20đặt-NAS-blue?logo=googledrive)](https://drive.google.com/drive/u/0/folders/1P5fwwDAB3mwOiLydvbRMZgbuBoY-FN5t) [![Build Status](https://img.shields.io/badge/Tải%20file%20cài%20đặt-Onedrive-blue??style=for-the-badge&logo=microsoftonedrive)]([https://1drv.ms/u/s!AusAbLoC7t1d2CWTfReuQ9MrwwwS?e=Iw4jLL](https://1drv.ms/u/s!AusAbLoC7t1d2CY7K5spnw2RIPfh?e=vLQgF9))
   
 </div>
 
