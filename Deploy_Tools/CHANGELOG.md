@@ -2,7 +2,10 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
-  v3.23.1006.1 
+v3.23.1012.1 
+🐛: Fix lỗi in Sổ khám bệnh (tham số ptttskb = 0).
+
+v3.23.1006.1 
 🐛: Fix lỗi xem sổ khám bệnh.
 
 v3.23.09.27.1 
