@@ -3,7 +3,7 @@ DHG.Hospital Prescription
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 v3.23.1016.2 
-✨: Cập nhật Lisence Bênh viện Tâm Minh Đức - Tiền Giang.
+✨: Cập nhật License Bênh viện Tâm Minh Đức - Tiền Giang.
 
 v3.23.1012.1 
 🐛: Fix lỗi in Sổ khám bệnh (tham số ptttskb = 0).
