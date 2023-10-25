@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.1025.1 
+🐛: Kiểm tra bệnh nhân có toav(loại trừ toa mua ngoài) khi thực hiện chỉnh chẩn đoán tại phòng khám.
+
 v3.23.1017.1 
 ✨: Thêm tham số "ktsinhhieu" để kiểm tra thông tin sinh hiệu trước khi khám.
 
