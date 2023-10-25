@@ -2,8 +2,11 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.1025.2 
+🐛: Fix lỗi sử dụng tham số "ghtienthuoc" sẽ loại bỏ chi phí toa mua ngoài khi tính chi thuốc.
+
 v3.23.1025.1 
-🐛: Kiểm tra bệnh nhân có toav(loại trừ toa mua ngoài) khi thực hiện chỉnh chẩn đoán tại phòng khám.
+🐛: Kiểm tra bệnh nhân có toa (loại trừ toa mua ngoài) khi thực hiện chỉnh chẩn đoán tại phòng khám.
 
 v3.23.1017.1 
 ✨: Thêm tham số "ktsinhhieu" để kiểm tra thông tin sinh hiệu trước khi khám.
