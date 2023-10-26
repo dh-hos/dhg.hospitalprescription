@@ -2,7 +2,7 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
-v3.23.1025.2 
+v3.23.1026.1 
 ✨: In phiếu chỉ định cận lâm sàng theo cấu hình khi sử dụng tham số "phieuyc.cauhinh".
 
 v3.23.1025.2 
