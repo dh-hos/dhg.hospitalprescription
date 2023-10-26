@@ -3,6 +3,9 @@ DHG.Hospital Prescription
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 v3.23.1025.2 
+✨: In phiếu chỉ định cận lâm sàng theo cấu hình khi sử dụng tham số "phieuyc.cauhinh".
+
+v3.23.1025.2 
 🐛: Fix lỗi sử dụng tham số "ghtienthuoc" sẽ loại bỏ chi phí toa mua ngoài khi tính chi phí thuốc.
 
 v3.23.1025.1 
