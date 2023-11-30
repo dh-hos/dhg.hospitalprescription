@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.1130.3 
+✨: Cập nhật Nghị định 75/2023/NĐ-CP (Giấy chuyến tuyến, Giấy hẹn tái khám).
+
 v3.23.1026.1 
 ✨: In phiếu chỉ định cận lâm sàng theo cấu hình khi sử dụng tham số "phieuyc.cauhinh".
 
