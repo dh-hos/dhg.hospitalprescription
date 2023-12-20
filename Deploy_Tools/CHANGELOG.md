@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.23.1220.2 
+✨: Cập nhật chức năng ghi nhận bệnh án ngày.
+
 v3.23.1130.3 
 ✨: Cập nhật Nghị định 75/2023/NĐ-CP (Giấy chuyến tuyến, Giấy hẹn tái khám).
 
