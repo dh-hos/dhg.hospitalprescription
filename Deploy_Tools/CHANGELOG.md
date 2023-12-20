@@ -2,7 +2,7 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
-v3.23.1220.2 
+v3.23.1220.1 
 ✨: Cập nhật chức năng ghi nhận bệnh án ngày.
 
 v3.23.1130.3 
