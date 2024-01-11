@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.24.0111.1
+🐛: Fix lỗi in phiếu hẹn tái khám bệnh nhân không BHYT. 
+
 v3.23.1231.1
 ✨: Cập nhật đơn vị mới: 60214 - Trung tâm Y tế huyện Đức Linh.
 
