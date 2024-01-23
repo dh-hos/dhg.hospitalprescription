@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.24.0123.1
+🐛: Bổ sung chỉ thị màu để phân biệt BANT đợt tái khám trong ngày. 
+
 v3.24.0111.1
 🐛: Fix lỗi in phiếu hẹn tái khám bệnh nhân không BHYT. 
 
