@@ -2,6 +2,10 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+
+v3.24.0125.1
+🐛: Bổ sung chức năng lấy số lượng cận lâm sàng mặc định theo cấu hình bộ cận lâm sàng. 
+
 v3.24.0123.1
 🐛: Bổ sung chỉ thị màu để phân biệt BANT đợt tái khám trong ngày. 
 
