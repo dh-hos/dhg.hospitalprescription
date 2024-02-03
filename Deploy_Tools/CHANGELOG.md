@@ -3,6 +3,9 @@ DHG.Hospital Prescription
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 
+v3.24.0202.1
+✨: Cập nhật đơn vị mới: 77159 - Phòng khám đa khoa Medic Sài Gòn 4.
+
 v3.24.0125.1
 🐛: Bổ sung chức năng lấy số lượng cận lâm sàng mặc định theo cấu hình bộ cận lâm sàng. 
 
