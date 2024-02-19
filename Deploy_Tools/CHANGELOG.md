@@ -3,6 +3,9 @@ DHG.Hospital Prescription
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
 
+v3.24.0219.1
+🐛: Bổ sung kiểm tra ngày vào viện BANT (ngày đăng ký < ngày vào viện < ngày khám). 
+
 v3.24.0202.1
 ✨: Cập nhật đơn vị mới: 77159 - Phòng khám đa khoa Medic Sài Gòn 4.
 
