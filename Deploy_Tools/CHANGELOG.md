@@ -2,6 +2,8 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.24.0305.1
+✨: Thêm tham số "toathuoc.chandoan": hỗ trợ cập nhật chẩn đoán cho toa thuốc.
 
 v3.24.0219.1
 🐛: Bổ sung kiểm tra ngày vào viện BANT (ngày đăng ký < ngày vào viện < ngày khám). 
