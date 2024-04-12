@@ -2,6 +2,9 @@ DHG.Hospital Prescription
 - Thông tin cập nhật
 - (✨: Chức năng mới,🐛: Chỉnh lỗi, #️⃣: Giải quyết công việc)
 
+v3.24.0412.1
+✨: Cập nhật các thông tin đầu vào hỗ trợ CV 130: xác nhận lưu trú, giấy lưu trú, trạng thái chuyển tuyến.
+
 v3.24.0305.1
 ✨: Thêm tham số "toathuoc.chandoan": hỗ trợ cập nhật chẩn đoán cho toa thuốc.
 
