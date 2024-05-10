@@ -1,1 +1,8 @@
++ Lỗi: https://github.com/dh-hos/dhg.hospitalprescription/issues/247
++ Lý do:
+  khambenh.dakham = 0 (đúng là khambenh.dakham = 5) ghi nhân sai trạng thái --> nên khi lấy lại thông tin không có dữ liệu nhập viện.
++ Xử lý:
+  - Cập nhật dữ liệu thủ công.
+  - Test lại chỗ lập phiếu nhập viện bệnh án ngoại trú tìm nguyên nhân ghi nhân sai khambenh.dakham.
+  
 
