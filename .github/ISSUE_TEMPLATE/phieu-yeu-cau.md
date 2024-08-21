@@ -3,7 +3,7 @@ name: Ghi nhận Yêu cầu
 about: Mẫu ghi nhận chi tiết thông tin yêu cầu chức năng mới
 title: 'Yêu cầu - '
 labels: 2. Bình thường
-assignees: nghivanbi
+assignees: nghivanbi, lequocthong29
 
 ---
 
